@@ -1,0 +1,29 @@
+2D Scheme B
+Fully Explicit Scheme
+Fully Implicit Scheme
+Report Figs
+Report refs
+Semi implicit Scheme A
+Semi implicit Scheme B
+Semi implicit Scheme C
+Semi implicit Scheme D
+2D scheme B smooth.txt
+2D scheme B_256.txt
+2D scheme B.txt
+cahn-hilliard_week1.pdf
+contents.pdf
+data_B.npy
+data_D.npy
+data_ref_2D_256.npy
+data_ref_2D_var_avg100.npy
+data_ref_2D_var.npy
+data_ref_2D.npy
+data_ref.npy
+extensions.pdf
+fully EE 1D.txt
+fully IE 1D.txt
+info_2024.pdf
+intro_to_problems.pdf
+save.txt
+Time.pdf
+!.gitignore
